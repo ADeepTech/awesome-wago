@@ -1,5 +1,7 @@
 # awesome-wago
 
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/adeeptech)
+
 > A curated list of awesome WAGO tutorials, guides, projects and resources.  
 
 ## WAGO
