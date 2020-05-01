@@ -12,13 +12,11 @@
 
 * [CODESYS Store](https://store.codesys.com/all-products.html "CODESYS Store") - CODESYS Store have many free application examples and libraries.  
 
-## Cloud Connectivity
-
-* [MQTT Sparkplug](https://www.cirrus-link.com/mqtt-sparkplug-tahu/ "MQTT Sparkplug") - MQTT Sparkplug provide a means to contact with [Ignition SCADA](https://inductiveautomation.com/ "Ignition SCADA") easily by MQTT.  
-
 ## Technologies
 
 * [Docker](https://www.docker.com/ "Docker") - Docker creates simple tooling and a universal packaging approach that bundles up all application dependencies inside a container which is then run on Docker Engine. Docker Engine enables containerized applications to run anywhere consistently on any infrastructure.  
+
+* [MQTT Sparkplug](https://www.cirrus-link.com/mqtt-sparkplug-tahu/ "MQTT Sparkplug") - MQTT Sparkplug provide a means to contact with [Ignition SCADA](https://inductiveautomation.com/ "Ignition SCADA") easily by MQTT.
 
 ## Industrial Protocols
 
@@ -26,8 +24,12 @@
 
 ## Linux
 
-
-
 ## Python
 
 ## PHP
+
+## YouTube
+
+* [WAGO CORP](https://www.youtube.com/user/WAGOCORP/videos) - WAGO CORP training and guides videos for all products.  
+* [Kurt Braun](https://www.youtube.com/user/WagoKurt/videos) - Kurt Braun have alot of WAGO training and guides videos shared in YouTube.  
+* [Jesse Cox](https://www.youtube.com/channel/UCXEwdiyGgzVDJD48f7rWOAw/videos)
