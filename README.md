@@ -30,6 +30,16 @@
 
 ## Linux
 
+* [WAGO PTXdist](https://github.com/WAGO/ptxdist) - WAGO PTXdist buildsystem
+* [PTXdist](https://www.ptxdist.org/doc/welcome.html) - Learn more about PTXdist, Embedded Linux
+
+## Cloud
+
+* [WAGO Cloud](https://www.wago.com/global/open-automation/cloud-automation/automation-wago-cloud) - Learn more on WAGO Cloud
+  * [Register](https://cloud.wago.com/login) - Register WAGO Cloud
+* [Microsoft Azure](https://github.com/WAGO/azure-iot-edge) - Setup Azure Iot Edge on a WAGO Device
+* [Amazon (AWS)](https://github.com/WAGO/aws-iot-greengrass) - Setup AWS IoT Greengrass on a WAGO Device
+
 ## Python
 
 ## PHP
